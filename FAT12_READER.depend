@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1695926824 source:f:\fpt document\fat12_reader\main.c
+	<stdio.h>
+	"FAT12.h"
+
+1695928098 source:f:\fpt document\fat12_reader\fat12.c
+	<stdint.h>
+	<string.h>
+	"FAT12.h"
+
+1696332484 f:\fpt document\fat12_reader\fat12.h
+	<stdio.h>
+	<stdint.h>
+	<string.h>
+
